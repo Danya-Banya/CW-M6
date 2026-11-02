@@ -1,0 +1,23 @@
+.userData {
+    font-size: 18px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.card {
+    background-color: #0c0c0c;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.linkBack {
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.3S;
+    margin-top: 30px;
+    &:hover {
+        color: #939393;
+    }
+
+}
